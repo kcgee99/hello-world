@@ -18,9 +18,9 @@ CourName nvarchar(50)
 )
 
 
-Hello World · GitHub 指南
-2017-03-24 11:33:14 CG国斌 阅读数 5908更多
-分类专栏： 译文那些事儿 史上最简单的 GitHub 教程
+GitHub 指南
+
+史上最简单的 GitHub 教程
 简介
 Hello World 项目是计算机编程历史中悠久的传统。在我们学习新知识的时候，她也是一个简单的练习。现在，就让我们一起了解 GitHub 吧！
 
